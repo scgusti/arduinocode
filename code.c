@@ -1,1 +1,2 @@
-int tambah file
+int tambah;
+int izin;
